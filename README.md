@@ -1,6 +1,6 @@
 # Description:
 
-The package is an idea of a decent project I realized based on pytube Package and tkinter and the object-oriented programming, and which was about downloading music, videos, playlists of music and playlists of videos .
+The package is an idea came out after realizing a decent project which was based on pytube Package and tkinter and the object-oriented programming, and which was about downloading music, videos, playlists of music and playlists of videos .
 
 I used pytube to code this project and provide a module which can help anyone just by one line of code download whatever he wants from Youtube.
 I coded this using a different approach, and I hope that you find it inspiring as I found it.
@@ -9,7 +9,7 @@ I coded this using a different approach, and I hope that you find it inspiring a
 
 * Download videos from with the maximum resolution up to 720p directly by just providing the link , and the path of your choice for saving the video.
 * Download audios directly by just providing the link , and the path of your choice for saving the audio.
-* Download Playlists of audios or videos by providing the link of **link of the whole playlist** and also the path of your desire.
+* Download Playlists of audios or videos by providing  the  **link of the whole playlist** and also the path of your desire.
 
 # Installation:
 ````shell
