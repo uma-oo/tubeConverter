@@ -46,7 +46,7 @@ playlist_video.download_playlist()
 ````
 
 ### For downloading Playlists of audios:
-Specify the link of the whole playlist of videos converted to mp3 files from YouTube and the path of destination of your desire for your files:
+Specify the link of the whole playlist of videos to convert to mp3 files from YouTube and the path of destination of your desire for your files:
 ```python
 from tubeConverter import *
 
